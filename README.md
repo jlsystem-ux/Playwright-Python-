@@ -26,8 +26,6 @@ playwright install
 Run the following command from the project's root directory.
 To view execution in slow motion (recommended for review):
 pytest tests/test_login.py --headed --slowmo 1000
-11/24/25, 5:01 PM Google Gemini
-https://gemini.google.com/app/bc406be0ebd3f087 1/2
 For fast execution (headless by default):
 pytest tests/test_login.py
 🖼️Artifacts and Evidence
@@ -35,5 +33,4 @@ The project is configured to generate evidence of the execution:
 Screenshot: The successful login test saves a screenshot in the artefactos/ folder.
 Terminal Output: The final result of 2 passed confirms that both login scenarios (success and
 failure) were validated correctly.
-11/24/25, 5:01 PM Google Gemini
-https://gemini.google.com/app/bc406be0ebd3f087 2/2
+
